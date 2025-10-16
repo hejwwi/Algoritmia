@@ -1,0 +1,11 @@
+# Compilados
+*.o
+*.exe
+*.out
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración del editor
+.vscode/
