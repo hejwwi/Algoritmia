@@ -1,15 +1,6 @@
-# Compilados
-*.o
-*.exe
-*.out
-
-# Archivos temporales
-*.log
-*.tmp
-
-# Configuración del editor
-.vscode/
-
-*.vcxproj
-*.vcxproj.user
-*.vcxproj.filters
+*
+!*.cpp
+!*.h
+!*.in
+!.gitignore
+!README.md
