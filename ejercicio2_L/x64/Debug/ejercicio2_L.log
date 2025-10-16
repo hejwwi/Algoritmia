@@ -1,0 +1,17 @@
+﻿  ejercicio2_L.cpp
+C:\Users\SandraWlodkowska\Desktop\Uni\DA\Ejercicio02_6\ejercicio2_L\ejercicio2_L\PriorityQueue.h(46,29): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "ejercicio2_L.cpp")
+      C:\Users\SandraWlodkowska\Desktop\Uni\DA\Ejercicio02_6\ejercicio2_L\ejercicio2_L\PriorityQueue.h(46,29):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          C:\Users\SandraWlodkowska\Desktop\Uni\DA\Ejercicio02_6\ejercicio2_L\ejercicio2_L\ejercicio2_L.cpp(46,45):
+          Vea la referencia a la creación de una instancia de clase plantilla "PriorityQueue<tMusicos,std::less<tMusicos>>" que se está compilando
+          C:\Users\SandraWlodkowska\Desktop\Uni\DA\Ejercicio02_6\ejercicio2_L\ejercicio2_L\PriorityQueue.h(44,10):
+          al compilar la función del miembro clase plantilla "void PriorityQueue<tMusicos,std::less<tMusicos>>::push(const T &)"
+          with
+          [
+              T=tMusicos
+          ]
+              C:\Users\SandraWlodkowska\Desktop\Uni\DA\Ejercicio02_6\ejercicio2_L\ejercicio2_L\ejercicio2_L.cpp(51,29):
+              vea la primera referencia a “PriorityQueue<tMusicos,std::less<tMusicos>>::push” en “resuelveCaso”
+  
+  ejercicio2_L.vcxproj -> C:\Users\SandraWlodkowska\Desktop\Uni\DA\Ejercicio02_6\ejercicio2_L\x64\Debug\ejercicio2_L.exe
