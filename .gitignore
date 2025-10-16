@@ -9,3 +9,7 @@
 
 # Configuración del editor
 .vscode/
+
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
